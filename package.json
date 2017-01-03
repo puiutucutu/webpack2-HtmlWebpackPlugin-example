@@ -1,0 +1,19 @@
+{
+  "name": "webpack2-HtmlWebpackPlugin-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.25.0",
+    "webpack": "^2.2.0-rc.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
