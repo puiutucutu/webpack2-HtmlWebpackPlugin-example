@@ -1,0 +1,1 @@
+# webpack2-HtmlWebpackPlugin-example
